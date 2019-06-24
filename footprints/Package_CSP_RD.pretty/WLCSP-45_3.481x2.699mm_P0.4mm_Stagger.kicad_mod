@@ -1,4 +1,4 @@
-(module WLCSP-45_3.481x2.699mm_P0.4mm_Stagger (layer F.Cu) (tedit 5D100740)
+(module WLCSP-45_3.481x2.699mm_P0.4mm_Stagger (layer F.Cu) (tedit 5D1023AE)
   (descr "WLCSP-45, 13x7 raster staggered array, 3.481x2.699mm package, pitch 0.4mm; http://ww1.microchip.com/downloads/en/DeviceDoc/45B_WLCSP_G2B_3_481x2_699mm_C04-21255a.pdf")
   (tags "CSP 45")
   (solder_mask_margin 0.0325)

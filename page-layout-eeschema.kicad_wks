@@ -2,6 +2,6 @@
   (setup (textsize 1.5 1.5)(linewidth 0.15)(textlinewidth 0.15)
   (left_margin 10)(right_margin 10)(top_margin 10)(bottom_margin 10))
   (rect (name rect1:Rect) (start -6 -3 ltcorner) (end -4.600000000000023 -3.100000000000023) (repeat 2) (incrx 2) (incry 2))
-  (tbtext "Sheet: %P" (name text1:Text) (pos 264 0.9999999999999716))
+  (tbtext "Sheet: %T" (name text1:Text) (pos 264 1))
   (tbtext "File: %F / %R" (name text2:Text) (pos 264.002 -0.9930000000000234))
 )

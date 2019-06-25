@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Linear_Technology_LTC2497
+D 16-Bit 8-/16-Channel ADC with I2C interface
+F https://www.analog.com/media/en/technical-documentation/data-sheets/2497fb.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LSF0102
+D Bidirectional Multi-Voltage Level Translator
+K LSF010x
+F http://www.ti.com/product/LSF0102
+$ENDCMP
+#
+#End Doc Library

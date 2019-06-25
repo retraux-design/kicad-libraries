@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS70331EESATR
+D High Sensitivity, 1 Mhz, Gmr-Bas WFQFN-12
+K current sensor
+F https://www.allegromicro.com/~/media/Files/Datasheets/ACS70331-Datasheet.ashx
+$ENDCMP
+#
+#End Doc Library

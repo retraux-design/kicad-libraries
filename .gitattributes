@@ -1,0 +1,2 @@
+*.stp filter=lfs diff=lfs merge=lfs -text
+*.igs filter=lfs diff=lfs merge=lfs -text

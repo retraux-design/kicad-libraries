@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ25600D
+D I2C Controlled 3A Single-Cell Battery Charger for High Input Voltage and Narrow Voltage DC Power Path Management, WCSP-30
+K LiPO charger
+F http://www.ti.com/lit/ds/symlink/bq25600d.pdf
+$ENDCMP
+#
+$CMP BQ27426YZFT
+D System Side Li-Ion/Polymer Impedance Track Fuel Gauge, DSBGA-9
+K Fuel Gauge
+F http://www.ti.com/lit/ds/symlink/bq27426.pdf
+$ENDCMP
+#
+#End Doc Library

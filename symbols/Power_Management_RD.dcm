@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS25910
+D 6.5-A, 20-V Integrated Hotswap with Programmable Inrush Slew Rate
+F http://www.ti.com/lit/ds/symlink/tps25910.pdf
+$ENDCMP
+#
+#End Doc Library

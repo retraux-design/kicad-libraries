@@ -1,11 +1,11 @@
-(module R_0603_1608Metric (layer F.Cu) (tedit 5D10166F)
+(module "R_0603_1608Metric" (layer F.Cu) (tedit 5ECD87EB)
   (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
-  (tags resistor)
+  (tags "resistor")
   (attr smd)
-  (fp_text reference REF** (at 0 -1.43) (layer F.SilkS)
+  (fp_text reference "REF**" (at 0 -1.43) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value R_0603_1608Metric (at 0 1.43) (layer F.Fab) hide
+  (fp_text value "R_0603_1608Metric" (at 0 1.43) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -18,15 +18,15 @@
   (fp_line (start -1.48 -0.73) (end 1.48 -0.73) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1.48 -0.73) (end 1.48 0.73) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1.48 0.73) (end -1.48 0.73) (layer F.CrtYd) (width 0.05))
-  (fp_text user %R (at 0 0) (layer F.Fab)
+  (fp_text user "${REFERENCE}" (at 0 0) (layer F.Fab)
     (effects (font (size 0.4 0.4) (thickness 0.06)))
   )
   (fp_line (start -0.06 0.11) (end 0.08 -0.11) (layer F.SilkS) (width 0.15))
   (fp_line (start 0.08 -0.11) (end 0.22 0.11) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.06 0.11) (end -0.2 -0.11) (layer F.SilkS) (width 0.15))
-  (pad 1 smd roundrect (at -0.7875 0) (size 0.875 0.95) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (pad 2 smd roundrect (at 0.7875 0) (size 0.875 0.95) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+  (pad "1" smd roundrect (at -0.7875 0) (size 0.875 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0a4d40df-aaf3-414c-90bf-53ba6c15cfdd))
+  (pad "2" smd roundrect (at 0.7875 0) (size 0.875 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 003befe0-d40e-44cd-9e65-ec405937df31))
+  (model "${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

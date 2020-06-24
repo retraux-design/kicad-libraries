@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP114AMX
+D 300mA Low-Dropout Linear Regulator, Fixed Output, UDFN-4
+K ldo positive
+F https://www.onsemi.com/pub/Collateral/NCP114-D.PDF
+$ENDCMP
+#
+$CMP NCP167AMX
+D 700mA Ultra Low-Dropout Linear Regulator, Fixed Output, XDFN-4
+K ldo positive
+F https://www.onsemi.com/pub/Collateral/NCP167-D.PDF
+$ENDCMP
+#
+$CMP TLV71209_WSON6
+D 300mA Low Dropout Voltage Regulator, Fixed Output 0.9V, WSON6
+K LDO Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tlv712.pdf
+$ENDCMP
+#
+$CMP TLV71210_WSON6
+D 300mA Low Dropout Voltage Regulator, Fixed Output 1.0V, WSON6
+K 300mA LDO Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tlv712.pdf
+$ENDCMP
+#
+$CMP TLV71211_WSON6
+D 300mA Low Dropout Voltage Regulator, Fixed Output 1.1V, WSON6
+K 300mA LDO Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tlv712.pdf
+$ENDCMP
+#
+#End Doc Library

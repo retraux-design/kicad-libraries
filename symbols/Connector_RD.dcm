@@ -1,3 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Micro_SD_Card_Det-ST11-H
+D Micro SD Card Socket with card detection pins
+K connector SD microsd
+F https://media.digikey.com/pdf/Data%20Sheets/JAE%20PDFs/ST11-H_%20Series.pdf
+$ENDCMP
+#
+$CMP SNES_Cart_Edge_62
+K snes
+F https://www.caitsith2.com/snes/flashcart/cart-chip-pinouts.html
+$ENDCMP
+#
 #End Doc Library

@@ -1,0 +1,15 @@
+(module "NetTie-3_Tiny" (layer F.Cu) (tedit 5EE07682)
+  (descr "Net tie, 3 pin, 0.5mm square SMD pads")
+  (tags "net tie")
+  (attr virtual)
+  (fp_text reference "NT1" (at 0 -1.2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "Net-Tie_3_Tee" (at 0 1.2) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy -0.025 -0.025) (xy 0.025 -0.025) (xy 0.025 0.025) (xy -0.025 0.025)) (layer F.Cu) (width 0))
+  (pad "3" smd circle (at 0 0) (size 0.01 0.01) (layers "F.Cu") (tstamp 2d58c838-9be7-4dcf-9ea6-3e8765304c82))
+  (pad "2" smd circle (at 0 0) (size 0.01 0.01) (layers "F.Cu") (tstamp 98add12f-3106-43d2-9c94-995623754830))
+  (pad "1" smd circle (at 0 0) (size 0.01 0.01) (layers "F.Cu") (tstamp c7e40f82-75de-4bdd-869f-07cb08fe2360))
+)

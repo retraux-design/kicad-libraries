@@ -1,4 +1,4 @@
-(module "Qwiic_JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical" (layer F.Cu) (tedit 5EF58D35)
+(module "Qwiic_JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical" (layer F.Cu) (tedit 5EF597AA)
   (descr "JST SH series connector, BM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
   (tags "connector JST SH side entry")
   (attr smd)
@@ -44,7 +44,6 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.846769 2.584594) (end -1.146769 2.584594) (layer F.SilkS) (width 0.15))
-  (fp_line (start 2.84 2.37) (end -13.41 2.37) (layer F.CrtYd) (width 0.05))
   (fp_line (start -1.646769 2.834594) (end -1.346769 2.834594) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.496769 2.584594) (end -1.496769 2.284594) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.496769 3.084594) (end -1.496769 3.084594) (layer F.SilkS) (width 0.15))

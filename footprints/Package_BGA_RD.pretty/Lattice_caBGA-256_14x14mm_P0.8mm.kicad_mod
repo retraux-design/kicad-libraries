@@ -1,4 +1,4 @@
-(module "Lattice_caBGA-256_14x14mm_P0.8mm" (layer F.Cu) (tedit 5ECAEF9E)
+(module "Lattice_caBGA-256_14x14mm_P0.8mm" (layer F.Cu) (tedit 5EFA28AF)
   (descr "256-Ball caBGA")
   (tags "Integrated Circuit")
   (attr smd)
@@ -280,7 +280,7 @@
   (pad "T15" smd circle (at 5.2 6 90) (size 0.41 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3aff3b31-eab5-4bbe-a4a7-f20ddf6ac9ce))
   (pad "T16" smd circle (at 6 6 90) (size 0.41 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f76a8466-9b0e-42a1-a3c5-9143e535925b))
   (model "${RD_ROOT}/kicad-libraries/footprints/Package_BGA_RD.pretty/Lattice_caBGA-256_14x14mm_P0.8mm.stp"
-    (at (xyz 0 0 0))
+    (offset (xyz 0 0 -0.15))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

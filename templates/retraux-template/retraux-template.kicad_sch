@@ -1,0 +1,19 @@
+(kicad_sch (version 20210126) (generator eeschema)
+
+  (paper "USLetter")
+
+  (title_block
+    (rev "r1")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+
+  (symbol_instances
+  )
+)
